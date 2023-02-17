@@ -1,2 +1,2 @@
 # Snake-game-in-Python
-Easy to implement Snake game source code
+Easy to use Snake game script code
